@@ -8,7 +8,7 @@ I’m currently learning more and more about Python, and Data Analytics tools, l
 
 I also have done a couple of projects with C/C++ using microcontrollers and sensors.
 
-#### I have a website where I post - not so regularly - about what I learn and things I make. Check it out: [makerluis.com](makerluis.com)
+#### I have a website where I post - not so regularly - about what I learn and things I make. Check it out: [makerluis.com](https://makerluis.com/)
 
 
 <!--

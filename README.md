@@ -10,6 +10,8 @@ I also have done a couple of projects with C/C++ using microcontrollers and sens
 
 #### I have a website where I post - not so regularly - about what I learn and things I make. Check it out: [makerluis.com](https://makerluis.com/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3FQ4XO)
+
 
 <!--
 **luisdamed/luisdamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

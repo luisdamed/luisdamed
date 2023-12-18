@@ -1,14 +1,29 @@
-### Hi there, I'm Luis
+## Hi there, I'm Luis
 
-I'm a Lifelong Student, Engineer, and Maker. 
+**Engineer, maker and lifelong learner.**
 
-I'm experienced in MATLAB, and have used it mostly for mechanical/automotive computations, but also for other scientific work (Particulate Matter, Air Filtration and Air Quality)
+I'm experienced in using Python and MATLAB for scientific and engineering computations. Mostly for mechanical/automotive applications, but also for other scientific work (Particulate Matter, Air Filtration and Air Quality).
 
-I’m currently improving my Python skills, especially for scientific computing, but also for Data Science and Machine Learning in general.
+### What I'm doing
 
-I have done a couple of projects with C/C++ using microcontrollers and sensors.
+I'm enthusiastic about Data Science, particularly about Deep Learning, and currently focused on learning as much as I can about its fundamentals. I'll use this profile to share any interesting projects I make while practicing any new skills I gain. 
 
-#### I have a website where I post - not so regularly - about what I learn and things I make. Check it out: [makerluis.com](https://makerluis.com/)
+I've also repurposed some of my notes as Medium articles and blog posts, and you can check them out here: [Deep Learning Notes](https://medium.com/@luisdamed/list/eb03d927a76a)
+
+---
+
+### Hobby Electronics and General DIY stuff
+
+As a maker, I enjoy creating things with my 3D printers and hobby electronics (mostly with microcontrollers like ESP32 and ESP8266). 
+
+I've shared a couple of projects related to that. My learning of C and C++ has been slow and steady, but my ability to document what I do started later.
+
+For 3D printing, my girlfriend and I created a profile where we share free 3D printable designs online. It's called **TwoThingies**, and we are mainly on [Instagram](https://www.instagram.com/twothingies?igshid=OGQ5ZDc2ODk2ZA==).
+
+---
+
+### Personal website/blog
+I have a website where I post - not so regularly - about what I learn and things I make. Check it out: [makerluis.com](https://makerluis.com/)
 
 
 <!--
